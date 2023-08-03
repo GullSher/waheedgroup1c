@@ -1,0 +1,70 @@
+//
+// import {Card} from 'react-bootstrap'
+// import { Row, Col, Card } from "react-bootstrap";
+
+// import '../../Assets/logo/FAAD_SIR.png'
+
+// const Row1A = () => {
+//     return (
+
+//         <div className="Row1">
+
+// {/* <div> */ }
+
+// <div className="wrapper">
+//         <div className={"card"}>
+
+// {/* <div className="card-navbar"><Navbar1 /></div> */ }
+
+// {/* <img src="" class="card-img-top" alt="..." /> */ }
+// <img className="Navbar-Image" style={{ height: '300px' }} src="WhaeedHafeez.png" alt="file-not-found" />
+// {/* <img src="../Assets/logo/FAAD_SIR.png" class="card-img-top" alt="FAAD_SIR" /> */ }
+                //     <h3 className="card-title">WAHEED GROUP OF COMPANIES</h3>
+                //     <p className="card-content">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>
+                //     <button className="card-btn">READ MORE</button>
+                // </div >
+                // <div className={"card"}>
+                //     <h3 className="card-title">CHAIRMAN</h3>
+                //     {/* <img className="Navbar-Image" style={{ height: '300px' }} src="WhaeedHafeez.png" alt="file-not-found" /> */}
+                //     {/* <img className='CardImg2' style={{ height: '300px' }} src="FAAD_SIR.png" class="card-img-top" alt="FAAD_SIR" /> */}
+                //     {/* <img className='CardImg2' style={{ height: '300px' }} src="./Assets1/FOUJI.jpg" class="card-img-top" alt="FAAD_SIR" /> */}
+                //     <img className='CardImg' style={{ height: '300px' }} src={require('./Assets1/SIR_FAAD.png')} alt='CHAIRMAN' />
+                //     <p className="card-content">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>
+                //     <button className="card-btn">READ MORE</button>
+                // </div>
+
+
+//                 <div className={"card"}>
+//                     <h3 className="card-title">FAUJI OIL</h3>
+//                     {/* <img className='CardImg2' style={{ height: '300px' }} src="FAAD_SIR.png" class="card-img-top" alt="FAAD_SIR" /> */}
+//                     {/* <img className='CardImg2' style={{ height: '300px' }} src="FOUJI.png" class="card-img-top" alt="FOUJI" /> */}
+//                     {/* <img style={{ height: '300px' }} src={{ "FOUJI SUPREME.jpg"}} alt="FOUJI" /> */}
+//                     <img className='CardImg' style={{ height: '300px' }} src={require('./Assets1/FOUJI.jpg')} alt='FOUJI OIL' />
+//                     {/*
+//                     <Card style={{ width: "18rem" }} className="my-3 p-3">
+//                         <Card.Img
+//                             variant="top"
+//                             src={url + item.image}
+//                         />
+//                     </Card> */}
+//                     {/* <Image className='card3' style={{ height: '300px' }} src='FOUJI.png' /> */}
+
+
+//                     {/* <img className='CardImg2' style={{ height: '300px' }} src="FAAD_SIR.png" class="card-img-top" alt="FAAD_SIR" /> */}
+//                     <p className="card-content">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>
+//                     <button className="card-btn">READ MORE</button>
+
+
+
+
+//                 </div>
+
+//             </div >
+
+//     {/* </div> */ }
+
+
+//         </div >
+//     )
+// }
+// export default Row1A
