@@ -1,0 +1,274 @@
+/* <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="css/themify-icons.css">
+<link rel="stylesheet" type="text/css" href="css/fontawesome-all.css">
+<link rel="stylesheet" type="text/css" href="css/icomoon.css">
+<link rel="stylesheet" type="text/css" href="css/plugins.css"> */
+/* Why golobal css not working for this file */
+
+footer {
+    background-color: #222;
+    padding-top: 60px;
+    border-top: 4px solid #555;
+    color: #ccc;
+}
+
+footer p {
+    color: #ccc;
+}
+
+footer a {
+    color: #666;
+}
+
+footer a:hover {
+    color: #666;
+    text-decoration: underline;
+}
+
+.footer-widget {
+    margin-bottom: 45px;
+}
+
+.footer-widget h4 {
+    color: #eee;
+    text-transform: uppercase;
+    padding-bottom: 8px;
+    margin-bottom: 20px;
+    font-size: 14px;
+    font-weight: 700;
+    position: relative;
+}
+
+.footer-widget h4 .head-line {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    display: block;
+    width: 50px;
+    height: 3px;
+    background-color: #333;
+    margin: 0;
+}
+
+.social-widget ul.social-icons li {
+    display: inline-block;
+    margin-right: 4px;
+    margin-bottom: 4px;
+}
+
+.social-widget ul.social-icons li a i {
+    font-size: 1.4em;
+    width: 36px;
+    height: 36px;
+    color: #fff;
+    line-height: 36px;
+    text-align: center;
+    display: block;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -o-border-radius: 2px;
+    transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+}
+
+.social-widget ul.social-icons li a:hover {
+    text-decoration: none;
+}
+
+.social-widget ul.social-icons li a.facebook:hover i {
+    background-color: #507CBE;
+}
+
+.social-widget ul.social-icons li a.twitter:hover i {
+    background-color: #63CDF1;
+}
+
+.social-widget ul.social-icons li a.google:hover i {
+    background-color: #F16261;
+}
+
+.social-widget ul.social-icons li a.dribbble:hover i {
+    background-color: #E46387;
+}
+
+.social-widget ul.social-icons li a.linkdin:hover i {
+    background-color: #90CADD;
+}
+
+.social-widget ul.social-icons li a.tumblr:hover i {
+    background-color: #4D7EA3;
+}
+
+.social-widget ul.social-icons li a.flickr:hover i {
+    background-color: #E474AF;
+}
+
+.social-widget ul.social-icons li a.instgram:hover i {
+    background-color: #4D4F54;
+}
+
+.social-widget ul.social-icons li a.vimeo:hover i {
+    background-color: #87D3E0;
+}
+
+.social-widget ul.social-icons li a.skype:hover i {
+    background-color: #36C4F3
+}
+
+.contact-widget {
+    background: url(../../AssetsMain/Images/map.png) center bottom no-repeat;
+}
+
+.contact-widget span {
+    font-weight: 700;
+}
+
+.contact-widget ul li {
+    margin-bottom: 12px;
+}
+
+.contact-widget ul li p a {
+    color: #bbb;
+}
+
+.contact-widget p {
+    padding-bottom: 20px;
+}
+
+.twitter-widget a:hover {
+    color: #43B9CD;
+    text-decoration: underline;
+}
+
+.twitter-widget ul li {
+    margin-bottom: 20px;
+}
+
+.twitter-widget ul li span {
+    color: #666;
+}
+
+.flickr-widget ul {
+    overflow: hidden;
+}
+
+.flickr-widget ul li {
+    float: left;
+    margin-left: 8px;
+    margin-bottom: 8px;
+}
+
+.flickr-widget ul li:nth-child(3n+1) {
+    margin-left: 0;
+}
+
+.flickr-widget ul li a {
+    display: inline-block;
+    width: 80px;
+    opacity: 0.6;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -o-border-radius: 2px;
+    border: 4px solid #333;
+    transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+}
+
+.flickr-widget ul li a img {
+    width: 100%;
+    height: 65px;
+}
+
+.flickr-widget ul li a:hover {
+    opacity: 1;
+}
+
+.mail-subscribe-widget form {
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+.mail-subscribe-widget form input[type="text"] {
+    outline: none;
+    color: #666;
+    font-size: 12px;
+    padding: 6px 12px;
+    border: none;
+    background: #fff;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -o-border-radius: 2px;
+    outline: none;
+}
+
+.copyright-section {
+    padding: 15px 0;
+    font-size: 11px;
+    letter-spacing: 0.5px;
+    border-top: 1px solid rgba(255, 255, 255, .06);
+}
+
+.copyright-section p {
+    font-size: 11px;
+    text-transform: uppercase;
+}
+
+ul.footer-nav {
+    float: right;
+}
+
+ul.footer-nav li {
+    display: inline-block;
+    float: left;
+    margin-left: 15px;
+}
+
+ul.footer-nav li:first-child {
+    margin-left: 0;
+}
+
+ul.footer-nav li a {
+    display: inline-block;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+}
+
+ul.footer-nav li a:hover {
+    color: #fff;
+}
+
+.back-to-top {
+    display: none;
+    position: fixed;
+    bottom: 18px;
+    right: 15px;
+}
+
+.back-to-top i {
+    display: block;
+    width: 36px;
+    height: 36px;
+    line-height: 36px;
+    color: #fff;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -o-border-radius: 2px;
+    text-align: center;
+    background-color: #444;
+    transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+}
